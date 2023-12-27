@@ -1,0 +1,22 @@
+- /models
+  - Class.js
+  - Student.js
+  - Faculty.js
+  - Document.js
+
+- /controllers
+  - classController.js
+  - studentController.js
+  - facultyController.js
+  - documentController.js
+
+- /routes
+  - classRoutes.js
+  - studentRoutes.js
+  - facultyRoutes.js
+  - documentRoutes.js
+
+- /views (if applicable)
+  - ...
+
+- app.js (or index.js)
